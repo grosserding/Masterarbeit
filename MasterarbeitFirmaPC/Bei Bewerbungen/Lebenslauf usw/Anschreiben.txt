@@ -1,0 +1,13 @@
+Sehr geehrter Herr Schmiemann,
+
+    Ich bin Zhicong Ding, studiere jetzt Kraftfahrzeugtechnick(Master) an der TU Braunschweig, und ich suche gerade eine Masterarbeit über den Bereich Machine Learning und Robotersysteme. Haben Sie dazu noch Masterarbeiten zur Verfügung?
+    In dem Bereich habe ich schon einige Demos über  Bilderbearbeiten und Objekterkennung selbst bearbeitet, wie z,B R-CNN Modell und YOLO Modell. Einige Demos sind auf dem MXNet-Framework, andere auf Tensorflow. Und bei Keras habe ich auch Grundkenntnisse. Zu diesem Bereich habe ich wirklich starke Interesse und Leidenschaft.
+    Im Anhang sind mein aktuell Notenspiegel und Lebenslauf. Ich freue mich auf Ihre Antwort und vielen Dank im voraus.
+
+
+Mit Freundlichen Grüßen
+-------------------------------------------------------------------
+Zhicong Ding (Mr.)
+Rebenring 64, Braunschweig 
+Tel: (0049)0174 6281791
+       (0086)18817879001
